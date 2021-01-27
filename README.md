@@ -1,4 +1,4 @@
-# Code files for C-FSAE, C-FES, FSAE and FES feature selection
+# Matlab code files for C-FSAE, C-FES, FSAE and FES feature selection
 C-FSAE, C-FES, FSAE and FES filter methods to rank features according to their relevance for supervised feature selection
 
 Matlab Code files Class-wise fuzzy similarity and entropy (C-FSAE), Class-wise fuzzy entropy and similarity (C-FES), fuzzy similarity and entropy (FSAE) and fuzzy entropy and similarity (FES) filterm methods that rank features according to their relevance for supervised feature selection in the context of classification. Files are related to the manuscript "Fuzzy similarity and entropy (FSAE) feature selection revisited by using intra-class entropy and a normalized scaling factor" from Christoph Lohrmann, PhD, and Pasi Luukka, DSc.
